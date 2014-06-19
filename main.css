@@ -1,6 +1,6 @@
 
 body{
-	background-color: linen;
+	background-color: #7f8c8d;
 }
 .wrapper {
 	min-width: 400px;
@@ -9,18 +9,18 @@ body{
 	position: relative;
 }
 .wrapper-content {
-	background-color: white;
+	background-color: #ecf0f1;
 } 
 
 header {
 	height: 200px;
-	background-color: green;
+	background-color: #2ecc71;
 	color: white;
 }
 
 #navigation-top {
 	height: 40px;
-	background-color: grey;
+	background-color: #34495e;
 	text-align: right;
 }
 #navigation-top a {
@@ -50,7 +50,7 @@ header {
 	padding-bottom: 3px;
 	padding-left: 20px;
 	text-decoration: none;
-	color: lightgrey;
+	color: #95a5a6;
 	font-size: 80%;
 }
 .navigation-right h4 {
